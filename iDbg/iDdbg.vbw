@@ -1,0 +1,14 @@
+CDebugger = 3, 13, 497, 485, Z
+CException = 66, 66, 610, 538, 
+CModule = 88, 88, 632, 560, C
+modPEParse = 119, 131, 642, 603, 
+Module1 = 132, 132, 655, 604, 
+CBreakPoint = 154, 154, 689, 596, C
+frmLibDebug = 88, 88, 600, 560, , 66, 66, 578, 538, C
+modDllInject = 220, 220, 741, 668, C
+frmDummy = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+CPEOffsets = 0, 0, 0, 0, C
+CImport = 0, 0, 0, 0, C
+CLoadImports = 0, 0, 0, 0, C
+CExport = 0, 0, 0, 0, C
+CLoadExports = 0, 0, 0, 0, C
